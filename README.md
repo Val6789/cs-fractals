@@ -2,7 +2,7 @@ Fractals in Scheme
 ==================
 
 ![Mandelbrot](mandelbrot.png)
-![3rd Order Mandelbrot](/images/logo.png)
+![3rd Order Mandelbrot](mandelbrot3.png)
 ![Julia](julia.png)
 
 Common fractals programmed in Chicken Scheme.
